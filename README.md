@@ -81,17 +81,20 @@ temperature-indication-system/
 ├── LICENSE
 │
 ├── docs/
-│ └── report.pdf
+│   └── report.pdf
 │
 ├── hardware/
-│ └── images/
-│ ├── setup.jpg
-│ ├── lcd_normal.jpg
-│ └── lcd_high.jpg
-│
-├── software/
-│ └── arduino_code/
-│ └── temp_display.ino
+│   ├── images/
+│   │   ├── setup.jpg
+│   │   ├── lcd_normal.jpg
+│   │   └── lcd_high.jpg
+│   │
+│   └── video/
+│       └── demo.mp4
 │
 ├── results/
-│ └── observations.txt
+│   └── observations.txt
+│
+├── software/
+│   └── arduino_code/
+│       └── temp_display.ino
