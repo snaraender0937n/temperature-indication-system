@@ -43,6 +43,19 @@ The project integrates a regulated power supply, temperature sensing, relay-base
 
 ---
 
+## 📸 Project Images
+
+### Setup
+![Setup](hardware/images/setup.jpg)
+
+### Normal Condition
+![Normal](hardware/images/lcd_normal.jpg)
+
+### High Temperature Condition
+![High](hardware/images/lcd_high.jpg)
+
+---
+
 ## 🖥️ Output
 - **TEMP NORMAL → FAN OFF**  
 - **TEMP HIGH → FAN ON**  
