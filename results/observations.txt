@@ -1,0 +1,11 @@
+Threshold defined using sensor + relay logic
+
+Condition 1:
+Temperature below threshold
+Relay Output = LOW
+LCD Display = TEMP NORMAL, FAN OFF
+
+Condition 2:
+Temperature above threshold
+Relay Output = HIGH
+LCD Display = TEMP HIGH, FAN ON
