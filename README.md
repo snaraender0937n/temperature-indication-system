@@ -76,7 +76,6 @@ The project integrates a regulated power supply, temperature sensing, relay-base
 ## 📁 Project Structure
 
 temperature-indication-system/
-│
 ├── README.md
 ├── LICENSE
 │
