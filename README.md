@@ -75,6 +75,7 @@ The project integrates a regulated power supply, temperature sensing, relay-base
 
 ## 📁 Project Structure
 
+```
 temperature-indication-system/
 ├── README.md
 ├── LICENSE
@@ -97,3 +98,4 @@ temperature-indication-system/
 ├── software/
 │   └── arduino_code/
 │       └── temp_display.ino
+```
